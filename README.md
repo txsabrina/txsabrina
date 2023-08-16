@@ -7,7 +7,8 @@
 </div>
 
 ###
-Oi, me chamo Sabrina Teixeira, eu tenho 24 anos, sou desenvolvedora web full-stack formada pela Trybe e atualmente estou cursando Engenharia de Softwware na universidade Estácio.
+Oi, me chamo Sabrina Teixeira, eu tenho 24 anos, sou desenvolvedora web full-stack formada pela Trybe e atualmente estou cursando Engenharia de Software na Universidade Estácio de Sá.
+Fique a vontade para acompanhar alguns dos meus projetos!
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=txsabrina&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
