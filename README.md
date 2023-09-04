@@ -25,7 +25,7 @@ Fique a vontade para acompanhar alguns dos meus projetos!
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><i class="devicon-java-plain"></i></code>
+  <i class="devicon-java-plain"></i>
   
 </div>
 
