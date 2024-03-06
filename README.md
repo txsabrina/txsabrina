@@ -7,7 +7,8 @@
 </div>
 
 ###
-Olá, eu sou a Sabrina
+Olá, eu sou a Sabrina!
+
 Aqui  você encontrará alguns dos meus projetos, onde coloco em prática meu conhecimentos. Sinta-se à vontade para explorar e acompanhar o meu progresso. Seja bem-vindo(a)! 😊🚀
 
 
