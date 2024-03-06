@@ -7,9 +7,8 @@
 </div>
 
 ###
-Olá, eu sou Sabrina Teixeira, uma entusiasta de desenvolvimento web full-stack com 24 anos de idade. Possuo formação pela Trybe e estou atualmente cursando Engenharia de Software na Universidade Estácio de Sá.
-
-Aqui no GitHub, você encontrará alguns dos meus projetos, onde coloco em prática meu conhecimento. Sinta-se à vontade para explorar e acompanhar o meu progresso. Seja bem-vindo(a)! 😊🚀
+Olá, eu sou a Sabrina
+Aqui  você encontrará alguns dos meus projetos, onde coloco em prática meu conhecimentos. Sinta-se à vontade para explorar e acompanhar o meu progresso. Seja bem-vindo(a)! 😊🚀
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=txsabrina&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
