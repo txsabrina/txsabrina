@@ -12,9 +12,6 @@ Olá, eu sou a Sabrina!
 Aqui  você encontrará alguns dos meus projetos, onde coloco em prática meu conhecimentos. Sinta-se à vontade para explorar e acompanhar o meu progresso. Seja bem-vindo(a)! 😊🚀
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=txsabrina&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txsabrina&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ##
 
 <div>
