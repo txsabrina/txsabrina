@@ -17,7 +17,7 @@ Aqui  você encontrará alguns dos meus projetos, onde coloco em prática meu co
 <div>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,js,cs,ts,nodejs,angular,react,mongodb,mysql,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,js,nodejs,cs,dotnet,react,mongodb,mysql,postgres,docker,azure" />
   </a>
 </p>
   
