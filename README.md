@@ -11,6 +11,10 @@ Olá, eu sou a Sabrina!
 
 Aqui  você encontrará alguns dos meus projetos, onde coloco em prática meu conhecimentos. Sinta-se à vontade para explorar e acompanhar o meu progresso. Seja bem-vindo(a)! 😊🚀
 
+Sou uma entusiasta do desenvolvimento web que está explorando diferentes linguagens e tecnologias e descobrindo minha paixão pelo BackEnd. Meu compromisso com a excelência e busta constante por aprendizado constroem a base da minha jornada profissional. Atualmente, estou cursando Engenharia de Software na Universidade Estácio de Sá, onde estou continuamente aprimorando minhas habilidades e conhecimentos. Também sou formada pela Trybe, onde obtive uma base sólida de soft e hard skills em programação. 
+
+Durante minhas experiências profissionais, tive a oportunidade de aprimorar principalmente minhas habilidades em .Net, arquiteturas como Clean Code, desenvolvimento e migração de versões em JAVA..  Porém possuo experiências práticas com outras linguagens e ferramentas como Spring Boot, JavaScript, React, Node.js, SQL, MongoDB e entre outras..
+
 
 ##
 
